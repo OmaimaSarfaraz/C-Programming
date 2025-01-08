@@ -1,0 +1,24 @@
+User 1:
+Username: 
+ID: 123
+Email: omaima
+User 2:
+Username: 
+ID: 1234
+Email: sarfaraz
+User 3:
+Username: 
+ID: 12345
+Email: mehmood
+User 1:
+Username: Omaima
+ID: 1
+Email: omaima@gmail.com
+User 2:
+Username: Mariam Sarfaraz
+ID: 2
+Email: mariam@gmail.com
+User 3:
+Username: Saad
+ID: 3
+Email: saad@gmail.com
