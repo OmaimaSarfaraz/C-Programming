@@ -1,0 +1,5 @@
+The sum of 56 and 44 is: 100
+The sum of 88 and 99 is: 187
+The sum of 23 and 32 is: 55
+The sum of 7654 and 765 is: 8419
+The sum of 7890 and 990 is: 8880
