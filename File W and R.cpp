@@ -10,7 +10,7 @@ int main()
 		return 1;
 	}
 	file<<"Hello!"<<endl;
-	file<<"My World."<<endl;
+	file<<"My World."<<endl; 
 	file<<"Welcome!"<<endl;
 	file.close();
 	ifstream files("Example.txt");
