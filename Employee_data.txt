@@ -1,0 +1,6 @@
+Name: Ali
+Age: 25
+Salary: 250000
+Name: Ali
+Age: 24
+Salary: 100000
